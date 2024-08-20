@@ -1,0 +1,31 @@
+.setup-form { padding: 2rem; max-width: 700px; }
+.form-grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+
+.toss-section { margin: 1.5rem 0; padding: 1.5rem; background: rgba(255,255,255,0.03); border-radius: 12px; border: 1px solid rgba(255,255,255,0.07); }
+.toss-title { font-size: 1rem; font-weight: 700; margin-bottom: 1rem; }
+.toss-toggle { display: flex; gap: 0.5rem; }
+.toggle-btn { flex: 1; padding: 0.65rem; border: 1px solid var(--border); border-radius: 8px; background: transparent; color: rgba(255,255,255,0.5); font-weight: 600; cursor: pointer; transition: all 0.2s; font-size: 0.95rem; }
+.toggle-btn.active { background: linear-gradient(135deg, #7b2ff7, #4a90e2); color: #fff; border-color: transparent; box-shadow: 0 4px 16px rgba(123,47,247,0.35); }
+
+.submit-btn { width: 100%; padding: 0.95rem; margin-top: 1rem; font-size: 1rem; }
+
+/* Match key reveal */
+.match-key-reveal {
+  max-width: 500px;
+  margin: 3rem auto;
+  padding: 3rem 2.5rem;
+  text-align: center;
+}
+.key-icon { font-size: 3.5rem; margin-bottom: 1rem; }
+.match-key-reveal h2 { font-size: 1.6rem; font-weight: 800; margin-bottom: 0.5rem; }
+.key-label { color: rgba(255,255,255,0.5); margin-bottom: 1.2rem; }
+.key-display { display: flex; align-items: center; justify-content: center; gap: 1rem; margin-bottom: 1.2rem; flex-wrap: wrap; }
+.key-value {
+  font-size: 2rem; font-weight: 900;
+  letter-spacing: 4px;
+  background: linear-gradient(90deg, #00d2ff, #7b2ff7);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+}
+.copy-btn { white-space: nowrap; }
+.key-hint { color: rgba(255,255,255,0.45); font-size: 0.9rem; margin-bottom: 2rem; }
+.key-actions { display: flex; gap: 1rem; justify-content: center; }

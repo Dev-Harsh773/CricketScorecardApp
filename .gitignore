@@ -1,0 +1,20 @@
+# Backend
+backend/target/
+backend/*.db
+*.db
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
