@@ -26,51 +26,47 @@
 
 ## 📸 Screenshots
 
-### Login Page
-<!-- SCREENSHOT PLACEHOLDER: Login page -->
-![Login Page](./screenshots/login.png)
+![](./screenshots/z1.png)
 
 ---
 
-### Dashboard
-<!-- SCREENSHOT PLACEHOLDER: Dashboard with matches in progress -->
-![Dashboard](./screenshots/dashboard.png)
+![](./screenshots/z2.png)
 
 ---
 
-### Match Setup
-<!-- SCREENSHOT PLACEHOLDER: Match setup with toss decision -->
-![Match Setup](./screenshots/match_setup.png)
+![](./screenshots/z3.png)
 
 ---
 
-### Add Players
-<!-- SCREENSHOT PLACEHOLDER: Add players screen for both teams -->
-![Add Players](./screenshots/add_players.png)
+![](./screenshots/z4.png)
 
 ---
 
-### Live Scoring Console
-<!-- SCREENSHOT PLACEHOLDER: Live scoring interface during a match -->
-![Live Scoring](./screenshots/live_scoring.png)
+![](./screenshots/z5.png)
 
 ---
 
-### Watch Live (Spectator View)
-<!-- SCREENSHOT PLACEHOLDER: Live score view for spectators -->
-![Watch Live](./screenshots/watch_live.png)
+![](./screenshots/z6.png)
 
 ---
 
-### Analytics Dashboard
-<!-- SCREENSHOT PLACEHOLDER: Analytics with charts and top performers -->
-![Analytics](./screenshots/analytics.png)
+![](./screenshots/z7.png)
 
 ---
 
-### Past Matches & Scorecard
-<!-- SCREENSHOT PLACEHOLDER: Full scorecard of a completed match -->
-![Scorecard](./screenshots/scorecard.png)
+![](./screenshots/z8.png)
+
+---
+
+![](./screenshots/z9.png)
+
+---
+
+![](./screenshots/z10.png)
+
+---
+
+![](./screenshots/z11.png)
 
 ---
 
